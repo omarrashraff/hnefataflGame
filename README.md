@@ -1,7 +1,6 @@
 # ♟️ Hnefatafl — Viking Chess AI
 
-An 11×11 asymmetric strategy board game from Viking-age Scandinavia, implemented in Python with a Tkinter GUI and an Alpha-Beta Pruning AI with iterative deepening and a transposition table. Built by - [Omar Ashraf](https://github.com/omarrashraff) & [Mohamed Ahmed](https://github.com/minshawi0) & (https://github.com/yousseftarekk265) & (github.com/EsmailEmadEldin)
-
+An 11×11 asymmetric strategy board game from Viking-age Scandinavia, implemented in Python with a Tkinter GUI and an Alpha-Beta Pruning AI with iterative deepening and a transposition table. Built by - [Omar Ashraf](https://github.com/omarrashraff) & [Mohamed Ahmed](https://github.com/minshawi0) & [Yousef Tarek](https://github.com/yousseftarekk265) & [Yousef Tarek](https://github.com/yousseftarekk265)
 
 > Built as a CS361 AI course project.
 
@@ -181,5 +180,4 @@ This project is for educational purposes.
 - [Omar Ashraf](https://github.com/omarrashraff)
 - [Mohamed Ahmed](https://github.com/minshawi0)
 - [Yousef Tarek](https://github.com/yousseftarekk265)
-- [Esmail Emad](github.com/EsmailEmadEldin)
-
+[Yousef Tarek](https://github.com/yousseftarekk265)
